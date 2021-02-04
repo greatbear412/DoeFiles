@@ -125,3 +125,5 @@ alias ga='git add .'
 alias gm='git commit'
 alias gma='git commit --amend'
 alias dc='cd'
+alias es213='ssh root@172.24.0.213'
+
